@@ -1,0 +1,8 @@
+apple
+house
+banana
+coconut
+chair
+car
+guitar
+guitar
